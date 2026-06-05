@@ -1,0 +1,37 @@
+# Compiled executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Static and dynamic libraries
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Debug files
+*.pdb
+*.dSYM/
+
+# Build directories
+build/
+bin/
+dist/
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
