@@ -3,6 +3,7 @@
 
 void main(void)
 {
+    printf("Sittal Basyal - 4th Semester - Bsc CSIT");
     printf("Here I am just before first forking statement\n");
     fork();
     printf("Here I am just after first forking statement\n");
