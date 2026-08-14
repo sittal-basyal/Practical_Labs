@@ -29,7 +29,8 @@ int main(void)
 {
     int i = 0;
     int err;
-    
+        printf("Sittal Basyal - 4th Semester - Bsc CSIT\n");
+
     while(i < 2)
     {
         err = pthread_create(&(tid[i]), NULL, &doSomeThing, NULL);
