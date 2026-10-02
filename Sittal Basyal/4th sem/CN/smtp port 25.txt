@@ -1,0 +1,8 @@
+smtp port 25
+tcp follows inorder delivery of message 
+connection oriented 
+error control is also done by tcp using checksum in end to end
+error control is done in datalink layer using crc in node to node 
+congestion control and flow control 
+segmentation 
+multiplexing and demultiplexing 
